@@ -1,0 +1,136 @@
+#include <Arduino.h>
+#include <DHT.h>
+#include <string>
+#include <ArduinoMqttClient.h>
+// #include <WiFiConnection.h>
+#include <ESP8266WiFi.h>
+#include <Measurements.h>
+
+#define DHTPIN1 D4
+// #define DHTPIN2 D3
+// #define DHTPIN3 D2
+#define DHTTYPE DHT22
+#define SECRET_SSID "PowaNet"
+#define SECRET_PASS "31388112691306647290"
+
+using namespace std;
+
+DHT dht1(DHTPIN1, DHTTYPE);
+
+Measurements measurements = Measurements();
+// DHT dht2(DHTPIN2, DHTTYPE);
+// DHT dht3(DHTPIN3, DHTTYPE);
+
+// WiFiClient wifiClient;
+// MqttClient mqttClient(wifiClient);
+
+// const char broker[] = "test.mosquitto.org";
+// int        port     = 1883;
+// const char topic[]  = "real_unique_topic";
+// const char topic2[]  = "real_unique_topic_2";
+// const char topic3[]  = "real_unique_topic_3";
+
+// WiFiConnection connection(SECRET_SSID, SECRET_PASS);
+
+// void onMqttMessage(int messageSize) {
+//   // we received a message, print out the topic and contents
+//   Serial.println("Received a message with topic '");
+//   Serial.print(mqttClient.messageTopic());
+//   Serial.print("', length ");
+//   Serial.print(messageSize);
+//   Serial.println(" bytes:");
+
+//   // use the Stream interface to print the contents
+//   while (mqttClient.available()) {
+//     Serial.print((char)mqttClient.read());
+//   }
+//   Serial.println();
+//   Serial.println();
+//   }
+
+void setup() {
+  Serial.begin(9600);
+  dht1.begin();
+  // dht2.begin();
+  // dht3.begin();
+}
+
+  // WiFi.begin(SECRET_SSID, SECRET_PASS);
+  // Serial.print("Attempting to connect to SSID: ");
+  // Serial.println(SECRET_SSID);
+  // while (WiFi.begin(SECRET_SSID, SECRET_PASS) != WL_CONNECTED) {
+  //   // failed, retry
+  //   Serial.print(".");
+  //   delay(5000);
+  // }
+  
+//   Serial.println("You're connected to the network");
+//   Serial.println();
+
+//   Serial.print("Attempting to connect to the MQTT broker: ");
+//   Serial.println(broker);
+
+//   if (!mqttClient.connect(broker, port)) {
+//     Serial.print("MQTT connection failed! Error code = ");
+//     Serial.println(mqttClient.connectError());
+
+//     while (1);
+//   }
+
+//   Serial.println("You're connected to the MQTT broker!");
+//   Serial.println();
+
+//   // set the message receive callback
+//   mqttClient.onMessage(onMqttMessage);
+
+//   Serial.print("Subscribing to topic: ");
+//   Serial.println(topic);
+//   Serial.println();
+
+//   // subscribe to a topic
+//   mqttClient.subscribe(topic);
+//   mqttClient.subscribe(topic2);
+//   mqttClient.subscribe(topic3);
+
+//   // topics can be unsubscribed using:
+//   // mqttClient.unsubscribe(topic);
+
+//   Serial.print("Topic: ");
+//   Serial.println(topic);
+//   Serial.print("Topic: ");
+//   Serial.println(topic2);
+//   Serial.print("Topic: ");
+//   Serial.println(topic3);
+
+//   Serial.println();
+// }
+
+void loop() {
+  int water_level_sensor = analogRead(A0);
+  // float humidity_sensor_1 = dht1.readHumidity();
+  float humidity_sensor_1 = measurements.get_humidity_of_sensor(1);
+  float temperature_sensor_1 = dht1.readTemperature();
+  // float humidity_sensor_2 = dht2.readHumidity();
+  // float temperature_sensor_2 = dht2.readTemperature();
+  // float humidity_sensor_3 = dht3.readHumidity();
+  // float temperature_sensor_3 = dht3.readTemperature();
+  // Serial.println("chk: " + chk);
+  Serial.println("Sensor1");
+  Serial.print("Luftfeuchtigkeit: ");
+  Serial.println(humidity_sensor_1);
+  Serial.print("Temperatur: ");
+  Serial.println(temperature_sensor_1);
+  // Serial.println("Sensor2");
+  // Serial.print("Luftfeuchtigkeit: ");
+  // Serial.println(humidity_sensor_2);
+  // Serial.print("Temperatur: ");
+  // Serial.println(temperature_sensor_2);
+  // Serial.println("Sensor3");
+  // Serial.print("Luftfeuchtigkeit: ");
+  // Serial.println(humidity_sensor_3);
+  // Serial.print("Temperatur: ");
+  // Serial.println(temperature_sensor_3);
+  Serial.print("sensor: ");
+  Serial.println(water_level_sensor);
+  delay(2000);
+}
