@@ -1,0 +1,10010 @@
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.80
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.80
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.80
+sensor: 20
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.80
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.80
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.80
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.80
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.80
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 56.90
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 56.90
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 56.90
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 56.90
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.70
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.60
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 56.90
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 56.90
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 56.90
+Temperatur: 22.60
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.60
+sensor: 20
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.60
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 20
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.60
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.40
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.50
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.40
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.50
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.40
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.50
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.60
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.00
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.40
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.70
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.20
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.80
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.30
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.20
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 55.90
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.00
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.10
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.20
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.90
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.60
+Temperatur: 22.00
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 22.00
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 22.00
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 21
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.90
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 22.00
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 22.00
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.00
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.00
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.90
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.90
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.00
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.00
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.00
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.00
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.00
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.00
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.00
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.10
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.10
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.40
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 21.20
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.40
+Temperatur: 21.10
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.10
+Temperatur: 21.10
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.40
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.60
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.70
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.80
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.10
+Sensor3
+Luftfeuchtigkeit: 62.90
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.00
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.10
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.20
+Temperatur: 21.20
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.10
+Temperatur: 21.20
+sensor: 43
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.20
+Temperatur: 21.20
+sensor: 43
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.10
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.30
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 63.40
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.50
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.40
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.50
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.40
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.30
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.20
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.10
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 63.00
+Temperatur: 21.20
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.80
+Temperatur: 21.20
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.80
+Temperatur: 21.20
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 62.70
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 62.50
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 62.40
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.40
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 62.30
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.20
+Temperatur: 21.20
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.10
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.20
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.20
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.20
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.30
+sensor: 41
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.20
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.20
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.40
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.50
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.50
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.60
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.60
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.70
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.60
+Temperatur: 21.30
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.60
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.50
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.50
+Temperatur: 21.30
+sensor: 36
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.50
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.50
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.30
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.30
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.30
+Sensor3
+Luftfeuchtigkeit: 62.20
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.90
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.10
+Temperatur: 21.30
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.80
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.30
+sensor: 48
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.30
+sensor: 44
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.70
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.30
+sensor: 37
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 39
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.30
+sensor: 32
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.30
+sensor: 31
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.30
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.30
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.40
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.30
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.30
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.40
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.40
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 62.20
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.60
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.10
+Temperatur: 21.40
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.40
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.40
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.40
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.70
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.60
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.40
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.40
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.30
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.40
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.40
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 32
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 33
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 36
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.80
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.40
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.40
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.40
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.40
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.40
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.50
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.50
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.50
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 59.20
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.30
+Temperatur: 21.50
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.50
+sensor: 40
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.00
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.50
+sensor: 37
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.50
+sensor: 36
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.20
+Temperatur: 21.50
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 58.90
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.50
+sensor: 33
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.50
+sensor: 36
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.50
+Sensor3
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.50
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 61.10
+Temperatur: 21.50
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.50
+sensor: 33
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.50
+sensor: 33
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 61.00
+Temperatur: 21.50
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.50
+sensor: 57
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.50
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.50
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 26
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.60
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 22
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.40
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 22.10
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 22.20
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 60.00
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 53
+Sensor1
+Luftfeuchtigkeit: 60.50
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 66
+Sensor1
+Luftfeuchtigkeit: 60.50
+Temperatur: 22.30
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.50
+sensor: 20
+Sensor1
+Luftfeuchtigkeit: 60.40
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.70
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 60.30
+Temperatur: 22.40
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.90
+Temperatur: 21.50
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 60.40
+Temperatur: 22.50
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 70
+Sensor1
+Luftfeuchtigkeit: 60.20
+Temperatur: 22.50
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.50
+sensor: 58
+Sensor1
+Luftfeuchtigkeit: 59.90
+Temperatur: 22.50
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.60
+sensor: 109
+Sensor1
+Luftfeuchtigkeit: 59.90
+Temperatur: 22.60
+Sensor2
+Luftfeuchtigkeit: 58.70
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.60
+sensor: 39
+Sensor1
+Luftfeuchtigkeit: 60.00
+Temperatur: 22.60
+Sensor2
+Luftfeuchtigkeit: 58.90
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.60
+sensor: 42
+Sensor1
+Luftfeuchtigkeit: 60.10
+Temperatur: 22.60
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.50
+sensor: 69
+Sensor1
+Luftfeuchtigkeit: 60.10
+Temperatur: 22.70
+Sensor2
+Luftfeuchtigkeit: 59.00
+Temperatur: 21.80
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.60
+sensor: 90
+Sensor1
+Luftfeuchtigkeit: 60.20
+Temperatur: 22.70
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.60
+sensor: 54
+Sensor1
+Luftfeuchtigkeit: 60.20
+Temperatur: 22.80
+Sensor2
+Luftfeuchtigkeit: 59.20
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.60
+sensor: 24
+Sensor1
+Luftfeuchtigkeit: 60.00
+Temperatur: 22.80
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.60
+sensor: 25
+Sensor1
+Luftfeuchtigkeit: 59.80
+Temperatur: 22.80
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.60
+sensor: 349
+Sensor1
+Luftfeuchtigkeit: 59.60
+Temperatur: 22.80
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.70
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 22.90
+Sensor2
+Luftfeuchtigkeit: 59.30
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.70
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.90
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 21.90
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.70
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 22.90
+Sensor2
+Luftfeuchtigkeit: 59.70
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.70
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.80
+Temperatur: 22.90
+Sensor2
+Luftfeuchtigkeit: 59.90
+Temperatur: 22.00
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.70
+sensor: 36
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 22.90
+Sensor2
+Luftfeuchtigkeit: 60.20
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.70
+sensor: 49
+Sensor1
+Luftfeuchtigkeit: 58.50
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.70
+sensor: 45
+Sensor1
+Luftfeuchtigkeit: 58.30
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 60.40
+Temperatur: 22.10
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.80
+sensor: 50
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 60.40
+Temperatur: 22.20
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.70
+sensor: 46
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 60.60
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.70
+sensor: 45
+Sensor1
+Luftfeuchtigkeit: 57.90
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 60.80
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.70
+sensor: 44
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 60.90
+Temperatur: 22.30
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.80
+sensor: 44
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 61.00
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.80
+sensor: 33
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 61.10
+Temperatur: 22.40
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.80
+sensor: 34
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 61.10
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.80
+sensor: 49
+Sensor1
+Luftfeuchtigkeit: 58.00
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 61.00
+Temperatur: 22.50
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.80
+sensor: 68
+Sensor1
+Luftfeuchtigkeit: 58.60
+Temperatur: 23.00
+Sensor2
+Luftfeuchtigkeit: 60.80
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 21.80
+sensor: 54
+Sensor1
+Luftfeuchtigkeit: 59.30
+Temperatur: 23.10
+Sensor2
+Luftfeuchtigkeit: 60.60
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.80
+sensor: 54
+Sensor1
+Luftfeuchtigkeit: 60.10
+Temperatur: 23.10
+Sensor2
+Luftfeuchtigkeit: 60.30
+Temperatur: 22.60
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.80
+sensor: 55
+Sensor1
+Luftfeuchtigkeit: 61.00
+Temperatur: 23.10
+Sensor2
+Luftfeuchtigkeit: 60.00
+Temperatur: 22.70
+Sensor3
+Luftfeuchtigkeit: 60.70
+Temperatur: 21.80
+sensor: 52
+Sensor1
+Luftfeuchtigkeit: 61.80
+Temperatur: 23.10
+Sensor2
+Luftfeuchtigkeit: 59.80
+Temperatur: 22.70
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.80
+sensor: 43
+Sensor1
+Luftfeuchtigkeit: 62.50
+Temperatur: 23.10
+Sensor2
+Luftfeuchtigkeit: 59.50
+Temperatur: 22.70
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.90
+sensor: 77
+Sensor1
+Luftfeuchtigkeit: 63.00
+Temperatur: 23.20
+Sensor2
+Luftfeuchtigkeit: 59.30
+Temperatur: 22.80
+Sensor3
+Luftfeuchtigkeit: 60.60
+Temperatur: 21.80
+sensor: 54
+Sensor1
+Luftfeuchtigkeit: 63.50
+Temperatur: 23.20
+Sensor2
+Luftfeuchtigkeit: 59.10
+Temperatur: 22.80
+Sensor3
+Luftfeuchtigkeit: 60.50
+Temperatur: 21.80
+sensor: 60
+Sensor1
+Luftfeuchtigkeit: 63.60
+Temperatur: 23.20
+Sensor2
+Luftfeuchtigkeit: 58.80
+Temperatur: 22.80
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.80
+sensor: 50
+Sensor1
+Luftfeuchtigkeit: 63.70
+Temperatur: 23.20
+Sensor2
+Luftfeuchtigkeit: 58.60
+Temperatur: 22.80
+Sensor3
+Luftfeuchtigkeit: 60.40
+Temperatur: 21.80
+sensor: 50
+Sensor1
+Luftfeuchtigkeit: 63.50
+Temperatur: 23.30
+Sensor2
+Luftfeuchtigkeit: 58.50
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.90
+sensor: 69
+Sensor1
+Luftfeuchtigkeit: 63.10
+Temperatur: 23.30
+Sensor2
+Luftfeuchtigkeit: 58.20
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.90
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 62.60
+Temperatur: 23.30
+Sensor2
+Luftfeuchtigkeit: 58.10
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.30
+Temperatur: 21.90
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 62.10
+Temperatur: 23.30
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.90
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 61.60
+Temperatur: 23.30
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.90
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 61.00
+Temperatur: 23.30
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.20
+Temperatur: 21.90
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 60.70
+Temperatur: 23.40
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.90
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 60.20
+Temperatur: 23.40
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.10
+Temperatur: 21.90
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.80
+Temperatur: 23.40
+Sensor2
+Luftfeuchtigkeit: 57.40
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.90
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 59.40
+Temperatur: 23.40
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 22.00
+sensor: 27
+Sensor1
+Luftfeuchtigkeit: 59.00
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.10
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 22.00
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.70
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.00
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 60.00
+Temperatur: 21.90
+sensor: 28
+Sensor1
+Luftfeuchtigkeit: 58.40
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 56.90
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 22.00
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 58.10
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 56.80
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 57.80
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 56.70
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 59.90
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 56.60
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 56.60
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 59.80
+Temperatur: 22.00
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 57.50
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 60.80
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 61.50
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 22.00
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 57.70
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 57.60
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.90
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 22.00
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 57.40
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.80
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 57.20
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.70
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 22.00
+sensor: 29
+Sensor1
+Luftfeuchtigkeit: 57.00
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.60
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 62.00
+Temperatur: 22.00
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 56.80
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.50
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 61.90
+Temperatur: 22.10
+sensor: 30
+Sensor1
+Luftfeuchtigkeit: 56.80
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 22.10
+sensor: 32
+Sensor1
+Luftfeuchtigkeit: 56.60
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.30
+Temperatur: 23.00
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 22.10
+sensor: 31
+Sensor1
+Luftfeuchtigkeit: 56.50
+Temperatur: 23.50
+Sensor2
+Luftfeuchtigkeit: 57.20
+Temperatur: 22.90
+Sensor3
+Luftfeuchtigkeit: 61.80
+Temperatur: 22.10
+sensor: 31
