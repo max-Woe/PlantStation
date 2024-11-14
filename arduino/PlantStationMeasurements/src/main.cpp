@@ -1,76 +1,45 @@
 #include <SPI.h>
-#include <Arduino.h>
-#include <DHT.h>
-#include <string>
-#include <ArduinoMqttClient.h>
-#include <ESP8266WebServer.h>
-// #include <RTClib.h>
+// #include <Arduino.h>
+// #include <DHT.h>
+// #include <string>
+// #include <ArduinoMqttClient.h>
+// #include <ESP8266WebServer.h>
 
 #include <Communication\WiFi\WiFiConnection.h>
+#include <Communication\WiFi\secrets.h>
 #include <Measurements\Measurements.h>
+#include <Measurements\Sensors\Sensors.h>
 #include <Uhr\Uhr.h>
 
-#define DHTPIN1 D4
-#define DHTTYPE DHT22
-#define SECRET_SSID "PowaNet"
-#define SECRET_PASS "31388112691306647290"
-
-Measurements measurements(DHTPIN1, DHTTYPE);
 
 WiFiConnection wifi_connection(SECRET_SSID, SECRET_PASS);
-
-// RTC_DS3231 rtc;
-
-// char wochentage[7][12] = {"Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"};
+Measurements measurements;
+TemperatureHumiditySensor tempHumSensor;
+WaterLevelSensor waterLevelSensor;
 
 
 void setup() {
-    Serial.begin(9600); // Serielle Kommunikation initialisieren
+    Serial.begin(9600);
     wifi_connection.connect();
-//     if (! rtc.begin()) {
-//     Serial.println("Finde keine RTC");
-//     while (true);
-//   }
-
-//   rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));  // Zeit vom Compiler
 }
 
 void loop() {
-    // Uhr uhr;
+    tempHumSensor.fetchData();
+    waterLevelSensor.fetchData();
 
-    // DateTime jetzt = rtc.now();
-    // Serial.print(uhr.get_day(), DEC);
-    // Serial.print('.');
-    // Serial.print(uhr.get_month(), DEC);
-    // Serial.print('.');
-    // Serial.print(uhr.get_year(), DEC);
-    // Serial.print(" ");
-    // Serial.print(uhr.get_day_of_week_string());
-    // Serial.print(" ");
-    // Serial.print(uhr.get_hour(), DEC);
-    // Serial.print(':');
-    // Serial.print(uhr.get_minute(), DEC);
-    // Serial.print(':');
-    // Serial.print(uhr.get_second(), DEC);
-    // Serial.println();
-    // //Formatierung vom Datum und der Zeit
-    // char buf1[] = "DD.MMM.YYYY-hh:mm:ss";
-    // Serial.println(uhr.get_date().toString(buf1));
-    // delay(3000);
+    measurements.setTemperature(tempHumSensor.getTemperature());
+    measurements.setHumidity(tempHumSensor.getHumidity());
+    measurements.setWaterLevel(waterLevelSensor.getWaterLevel());
 
 
-    measurements.collect_data();
-    String measurements_string = measurements.get_all_measurements_as_json();
+
+    Serial.print("temperatur:");
+    String measurements_string = measurements.getAllMeasurementsAsJson();
+    Serial.println(measurements_string);
     wifi_connection.setDataToSend(measurements_string);
     wifi_connection.handleDataRequest();
     wifi_connection.handle_client();
     wifi_connection.sendData(measurements_string);
 
-    Serial.println("Einzelmessungen:");
-    measurements.get_water_level();
-    measurements.get_humidity_of_sensor();
-    measurements.get_temperature_of_sensor();
-    Serial.println("Gesammt:");
-    measurements.get_all_measurements();
     delay(2000);
 }

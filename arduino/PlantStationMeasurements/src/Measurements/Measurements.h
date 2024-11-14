@@ -1,34 +1,39 @@
-#ifndef MEASUREMNTS_H
-#define MEASUREMNTS_H
+#ifndef MEASUREMENTS_H
+#define MEASUREMENTS_H
 
 #include <Arduino.h>
-#include <DHT.h>
+// #include <DHT.h>
 #include <ArduinoJson.h>
 #include <Uhr\Uhr.h>
+#include <Measurements\Sensors\Sensors.h>
+#include <list>
+// #include <string>
 
 // #define DHTPIN D4
 // #define DHTTYPE DHT22
 
 class Measurements {
     public:
-        Measurements(const int DHTPIN,const int DHTTYPE); // Konstruktor
+        Measurements(); // Konstruktor
 
-        float get_temperature_of_sensor();
-        float get_humidity_of_sensor();
-        float get_water_level();
-        void get_all_measurements();
-        void collect_data();
-        String get_all_measurements_as_json();
-        DateTime get_time_stamp();
+        float getTemperature();
+        float getHumidity();
+        float getLaterLevel();
+        void setTemperature(float temperature);
+        void setHumidity(float humidity);
+        void setWaterLevel(float water_level);
+        void getAllMeasurements();
+        String getAllMeasurementsAsJson();
+        DateTime getTimeStampOfMeasurements();
 
     private:
-        DHT dht; // DHT-Objekt als Member-Variable
+
         DateTime _time_stamp;
         Uhr _uhr;
-        float temperature;
-        float humidity;
-        float water_level;
-        JsonDocument measurements_as_json;
+        float _temperature;
+        float _humidity;
+        float _water_level;
+        JsonDocument _measurements_as_json;
 };
 
 #endif
