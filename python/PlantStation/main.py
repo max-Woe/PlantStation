@@ -1,18 +1,41 @@
 import json
 
-from Communication.WiFiConnection.WiFiConnection import WiFiConnection
-from Entities.DDD.MeasurementOfStation import MeasurementOfStation
+# from requests import postgres_session, session
+
+from Communication.WiFiConnection.WiFiConnection import HttpConnection
+from DataCollecting.DDD.MeasurementOfStation import MeasurementOfStation
+from DataCollecting.ORM.MeasurementTable import *
+from DataCollecting.ORM.SQLConnection.PostgresConnection import *
+from DataCollecting.ORM.AlembicModels.Measurement import MeasurementModel
 
 # Via WiFi Schnittstelle eine Verbindung zum Mikrocontroller herstellen
 # import requests
 
 # IP-Adresse des D1 mini (Diese wird beim Start im Serial Monitor angezeigt)
-URL = "http://192.168.178.74/data"
+# URL = "http://192.168.178.74/data"
 
 count_measurements_max = 1000
 count_measurements = 0
 
-wifi_connection = WiFiConnection(URL)
+wifi_connection = HttpConnection()
+#
+# postgres_connection = PostgresConnection()
+#
+# postgres_session = postgres_connection.get_session()
+
+measure_table_class = MeasurementTable()
+whole_table = measure_table_class.get_table()
+print()
+
+#
+# measurement_model = MeasurementModel(value=1, unit= "°C", sensor_id=3,recorded_at=datetime.now(),created_at=datetime.now())
+#
+# if postgres_session:
+#     postgres_session.add(measurement_model)
+#     postgres_session.commit()
+#     print(postgres_session.query(MeasurementModel).all())
+
+
 
 while count_measurements<count_measurements_max:
     count_measurements += 1
@@ -21,47 +44,21 @@ while count_measurements<count_measurements_max:
 
     received_json_string = wifi_connection.fetch_data()
     measurements_dict = json.loads(received_json_string)
-    measurement = MeasurementOfStation(measurements_dict)
+    measurement_of_station = MeasurementOfStation(measurements_dict)
+    commits = []
+    test = measurement_of_station.get_measurements_as_df()
+    for _, measurement in measurement_of_station.get_measurements_as_df().iterrows():
+        measurement_model = MeasurementModel(
+            value = measurement['value'],
+            unit = measurement['unit'],
+            recorded_at = measurement['recorded_at'],
+            created_at = measurement['created_at']
+        )
+        commits.append(measurement_model)
+        measure_table_class.add_row(measurement_model)
+    # postgres_session.add_all(commits)
+    # postgres_session.commit()
+    # postgres_session.close()
+    # postgres_connection.close()
     print()
 print()
-# # Via serieller Schnittstelle eine Verbindung zum Mikrocontroller herstellen
-# ser = serial.Serial('COM6', 9600)
-# time.sleep(2)  # Warten für die serielle Verbindung
-#
-# # Leere Liste erstellen
-# data_list = []
-#
-# i = 0
-#
-# # Eine Textdatei zum Speichern öffnen
-#
-# with open('water_level_data.txt', 'w', encoding='utf-8') as f:
-#     try:
-#         while True:
-#             line = ser.readline()  # Lese eine Zeile vom Mikrocontroller
-#             try:
-#                 decoded_line = line.decode('utf-8').strip()  # Versuche, die Zeile zu dekodieren
-#             except UnicodeDecodeError:
-#                 decoded_line = line.decode('latin-1').strip()  # Verwende latin-1 als Fallback
-#
-#             if len(data_list)%10 == 0:
-#                 i+=1
-#             print(i, decoded_line)  # Gebe die Zeile auf der Konsole aus
-#
-#             # Füge den dekodierten Wert zur Liste hinzu
-#             data_list.append(decoded_line)
-#
-#             # Überprüfen, ob die Liste 1000 Einträge hat
-#             if len(data_list) >= 10010:
-#                 break  # Beende die Schleife, wenn 1000 Einträge erreicht sind
-#
-#     except KeyboardInterrupt:
-#         print("Aufzeichnung beendet.")
-#     finally:
-#         # Schreibe alle gesammelten Werte in die Datei
-#         for item in data_list:
-#             f.write(item + '\n')  # Schreibe jeden Wert in eine neue Zeile
-#
-#         # Stelle sicher, dass der COM-Port geschlossen wird, falls er noch geöffnet ist
-#         if ser.is_open:
-#             ser.close()
