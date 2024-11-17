@@ -1,4 +1,5 @@
 from datetime import datetime, time, date
+import pandas as pd
 
 class MeasurementOfStation:
     def __init__(self, measurement_dict:dict=None):
@@ -8,6 +9,7 @@ class MeasurementOfStation:
                 self.temperature = float(measurement_dict["temperature"])
                 self.humidity = float(measurement_dict["humidity"])
                 self.water_level = float(measurement_dict["water_level"])
+                self.measurement_values_dict = {'temperature': self.temperature, 'humidity': self.humidity, 'water_level': self.water_level}
                 self.seperate_time_stampe()
             else:
                 raise ValueError("measurements_dict is not a dictionary!")
@@ -154,3 +156,23 @@ class MeasurementOfStation:
         self.hour = self.time_stamp.hour
         self.minute = self.time_stamp.minute
         self.second = self.time_stamp.second
+
+    def get_measurements_as_df(self):
+        df = pd.DataFrame(columns=['time_stamp', 'value', 'unit','recorded_at', 'created_at' ])
+        for key, measurement in self.measurement_values_dict.items():
+            if key == 'temperature':
+                unit = "°C"
+            elif key == 'humidity':
+                unit = "%rel"
+            elif key == 'water_level':
+                unit = "%"
+            new_row = pd.DataFrame({'time_stamp': [self.time_stamp],
+                                    'value': [measurement],
+                                    'unit': [unit],
+                                    'recorded_at': [self.time_stamp],
+                                    'created_at': [datetime.now()]})
+
+            # Füge die neue Zeile zum bestehenden DataFrame hinzu
+            df = pd.concat([df, new_row], ignore_index=True)
+
+        return df
