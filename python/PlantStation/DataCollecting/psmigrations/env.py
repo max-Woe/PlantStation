@@ -4,8 +4,13 @@ from logging.config import fileConfig
 from sqlalchemy import engine_from_config
 from sqlalchemy import pool
 
-from DataCollecting.ORM.AlembicModels import Base#, Measurement
+# from DataCollecting.ORM.AlembicModels import * #Base#, Measurement
 from alembic import context
+
+from DataCollecting.ORM.AlembicModels.Models import Base
+# from DataCollecting.ORM.AlembicModels.Base import Base
+# from DataCollecting.ORM.AlembicModels.MeasurementModel import MeasurementModel
+# from DataCollecting.ORM.AlembicModels.SensorModel import SensorModel
 
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.

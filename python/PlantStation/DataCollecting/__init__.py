@@ -1,3 +1,4 @@
-from DataCollecting.ORM.AlembicModels.Measurement import Base, MeasurementModel
+from .ORM.AlembicModels.Models import Base
 
-__all__ = ['Base', 'MeasurementModel']
+
+__all__ =['Base']

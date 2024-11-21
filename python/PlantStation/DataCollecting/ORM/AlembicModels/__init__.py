@@ -1,3 +1,3 @@
-from .Measurement import Base, MeasurementModel
+from .Models  import MeasurementModel
 
-__all__ = ['Base', 'MeasurementModel']
+__all__ = ["Base", "SensorModel", "MeasurementModel"]
