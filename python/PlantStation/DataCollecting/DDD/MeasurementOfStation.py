@@ -11,6 +11,7 @@ class MeasurementOfStation:
                 self.water_level = float(measurement_dict["water_level"])
                 self.measurement_values_dict = {'temperature': self.temperature, 'humidity': self.humidity, 'water_level': self.water_level}
                 self.seperate_time_stampe()
+                self.measurement_values_df = None
             else:
                 raise ValueError("measurements_dict is not a dictionary!")
         except ValueError as e:
@@ -158,7 +159,7 @@ class MeasurementOfStation:
         self.second = self.time_stamp.second
 
     def get_measurements_as_df(self):
-        df = pd.DataFrame(columns=['time_stamp', 'value', 'unit','recorded_at', 'created_at' ])
+        self.measurement_values_df = pd.DataFrame(columns=['time_stamp', 'value', 'unit','recorded_at', 'created_at' ])
         for key, measurement in self.measurement_values_dict.items():
             if key == 'temperature':
                 unit = "°C"
@@ -173,6 +174,6 @@ class MeasurementOfStation:
                                     'created_at': [datetime.now()]})
 
             # Füge die neue Zeile zum bestehenden DataFrame hinzu
-            df = pd.concat([df, new_row], ignore_index=True)
+            self.measurement_values_df = pd.concat([self.measurement_values_df, new_row], ignore_index=True)
 
-        return df
+        return self.measurement_values_df
