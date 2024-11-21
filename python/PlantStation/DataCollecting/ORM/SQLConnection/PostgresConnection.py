@@ -7,7 +7,6 @@ from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.pool import QueuePool
 from dotenv import load_dotenv
 
-# Lade Umgebungsvariablen aus der .env-Datei
 load_dotenv()
 
 
@@ -20,16 +19,14 @@ class PostgresConnection:
         :param pool_size: Number of connections to keep in the pool (default: 5)
         :param max_overflow: Number of connections to allow beyond pool_size (default: 10)
         """
-        # Falls keine DB_URL übergeben wird, hole sie aus der Umgebungsvariablen
         self.db_url = db_url or os.getenv('DATABASE_URL')
 
-        # Engine mit Connection Pooling erstellen
         self.engine = create_engine(
             self.db_url,
             poolclass=QueuePool,
             pool_size=pool_size,
             max_overflow=max_overflow,
-            echo=False  # Setze auf True für Debugging von SQL-Abfragen
+            echo=False
         )
 
         self.Session = sessionmaker(bind=self.engine)
@@ -37,12 +34,12 @@ class PostgresConnection:
     def __enter__(self):
         """Beendet den 'with'-Block und gibt eine Session zurück."""
         try:
-            self.session = self.Session()  # Eine neue Session erstellen
+            self.session = self.Session()
             logging.info("Session created successfully.")
-            return self.session  # Gibt die Session zurück, die innerhalb des 'with' Blocks verwendet wird
+            return self.session
         except SQLAlchemyError as e:
             logging.error(f"Error creating session: {e}")
-            raise  # Fehler weitergeben, damit der aufrufende Code darauf reagieren kann
+            raise
 
     def get_session(self):
         """Returns a new session from the pool."""
@@ -62,12 +59,11 @@ class PostgresConnection:
         self.engine.dispose()
 
     def __exit__(self, exc_type, exc_value, traceback):
-        """Schließt die Session ordnungsgemäß und gibt den Pool frei."""
         try:
             if hasattr(self, 'session'):
-                self.session.close()  # Schließt die Session
-            self.engine.dispose()  # Gibt den Verbindungspool frei
+                self.session.close()
+            self.engine.dispose()
             logging.info("Connection pool disposed and session closed.")
         except SQLAlchemyError as e:
             logging.error(f"Error disposing the connection pool: {e}")
-            raise  # Fehler weitergeben
+            raise
