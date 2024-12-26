@@ -1,0 +1,111 @@
+2024-12-01 09:59:06,248 - INFO - Logging wurde gestartet.
+2024-12-01 09:59:27,296 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000024EBC2034A0>, 'Connection to 192.168.178.74 timed out. (connect timeout=None)')': /data
+2024-12-01 09:59:52,116 - INFO - Logging wurde gestartet.
+2024-12-01 10:00:13,161 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000178E68EF860>, 'Connection to 192.168.178.74 timed out. (connect timeout=None)')': /data
+2024-12-01 10:00:36,201 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000178E68EFA10>, 'Connection to 192.168.178.74 timed out. (connect timeout=None)')': /data
+2024-12-01 10:01:01,234 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000178E68EFBF0>, 'Connection to 192.168.178.74 timed out. (connect timeout=None)')': /data
+2024-12-01 10:35:42,654 - INFO - Logging wurde gestartet.
+2024-12-01 10:36:03,708 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000023EFDDC7A40>, 'Connection to 192.168.178.74 timed out. (connect timeout=None)')': /data
+2024-12-01 10:36:26,750 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000023EFDDC7C80>, 'Connection to 192.168.178.74 timed out. (connect timeout=None)')': /data
+2024-12-01 10:36:51,778 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000023EFDDC7E60>, 'Connection to 192.168.178.74 timed out. (connect timeout=None)')': /data
+2024-12-01 10:46:23,806 - INFO - Logging wurde gestartet.
+2024-12-01 10:47:11,094 - INFO - Logging wurde gestartet.
+2024-12-01 11:02:18,415 - INFO - Logging wurde gestartet.
+2024-12-01 11:02:57,956 - INFO - Logging wurde gestartet.
+2024-12-01 11:05:08,507 - INFO - Logging wurde gestartet.
+2024-12-01 11:29:27,696 - INFO - Logging wurde gestartet.
+2024-12-02 12:48:01,600 - INFO - Logging wurde gestartet.
+2024-12-20 10:02:54,518 - INFO - Logging wurde gestartet.
+2024-12-20 10:03:37,805 - INFO - Logging wurde gestartet.
+2024-12-20 10:03:57,448 - INFO - Logging wurde gestartet.
+2024-12-20 10:55:34,581 - INFO - Logging wurde gestartet.
+2024-12-20 10:56:29,420 - INFO - Logging wurde gestartet.
+2024-12-20 10:57:09,988 - INFO - Logging wurde gestartet.
+2024-12-20 11:15:13,130 - INFO - Logging wurde gestartet.
+2024-12-20 11:21:33,172 - INFO - Logging wurde gestartet.
+2024-12-20 11:22:42,540 - INFO - Logging wurde gestartet.
+2024-12-20 11:22:50,668 - INFO - Logging wurde gestartet.
+2024-12-20 12:10:06,400 - INFO - Logging wurde gestartet.
+2024-12-20 12:18:13,578 - INFO - Logging wurde gestartet.
+2024-12-20 12:20:29,801 - INFO - Logging wurde gestartet.
+2024-12-20 14:32:05,412 - INFO - Logging wurde gestartet.
+2024-12-20 14:32:34,826 - INFO - Logging wurde gestartet.
+2024-12-20 14:38:56,183 - INFO - Logging wurde gestartet.
+2024-12-20 15:01:05,908 - INFO - Logging wurde gestartet.
+2024-12-20 15:06:42,975 - INFO - Logging wurde gestartet.
+2024-12-20 15:15:58,360 - INFO - Logging wurde gestartet.
+2024-12-20 15:16:49,802 - INFO - Logging wurde gestartet.
+2024-12-20 15:17:31,753 - INFO - Logging wurde gestartet.
+2024-12-20 15:26:49,707 - INFO - Logging wurde gestartet.
+2024-12-20 15:27:10,140 - INFO - Logging wurde gestartet.
+2024-12-20 15:27:33,922 - INFO - Logging wurde gestartet.
+2024-12-20 15:31:39,720 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 15:31:56,068 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 15:32:12,551 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None)': /data
+2024-12-20 15:59:16,573 - INFO - Logging wurde gestartet.
+2024-12-20 16:00:28,779 - INFO - Logging wurde gestartet.
+2024-12-20 16:02:15,699 - INFO - Logging wurde gestartet.
+2024-12-20 16:02:32,185 - INFO - Logging wurde gestartet.
+2024-12-20 16:02:59,193 - INFO - Logging wurde gestartet.
+2024-12-20 16:05:00,653 - INFO - Logging wurde gestartet.
+2024-12-20 16:05:25,923 - INFO - Logging wurde gestartet.
+2024-12-20 16:06:45,707 - INFO - Logging wurde gestartet.
+2024-12-20 16:08:03,874 - INFO - Logging wurde gestartet.
+2024-12-20 16:11:11,291 - INFO - Logging wurde gestartet.
+2024-12-20 16:12:47,498 - INFO - Logging wurde gestartet.
+2024-12-20 16:15:03,006 - INFO - Logging wurde gestartet.
+2024-12-20 16:15:32,394 - INFO - Logging wurde gestartet.
+2024-12-20 16:21:33,075 - INFO - Logging wurde gestartet.
+2024-12-20 16:23:29,127 - INFO - Logging wurde gestartet.
+2024-12-20 16:26:52,206 - INFO - Logging wurde gestartet.
+2024-12-20 16:28:52,663 - INFO - Logging wurde gestartet.
+2024-12-20 16:30:47,992 - INFO - Logging wurde gestartet.
+2024-12-20 16:31:21,967 - INFO - Logging wurde gestartet.
+2024-12-20 16:32:44,140 - INFO - Logging wurde gestartet.
+2024-12-20 16:34:18,296 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 16:34:34,591 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 16:34:50,026 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None)': /data
+2024-12-20 16:37:55,790 - INFO - Logging wurde gestartet.
+2024-12-20 16:45:52,975 - INFO - Logging wurde gestartet.
+2024-12-20 16:47:38,488 - INFO - Logging wurde gestartet.
+2024-12-20 16:49:10,498 - INFO - Logging wurde gestartet.
+2024-12-20 16:50:49,858 - INFO - Logging wurde gestartet.
+2024-12-20 16:53:50,930 - INFO - Logging wurde gestartet.
+2024-12-20 16:54:58,601 - INFO - Logging wurde gestartet.
+2024-12-20 17:04:29,604 - INFO - Logging wurde gestartet.
+2024-12-20 17:09:04,364 - INFO - Logging wurde gestartet.
+2024-12-20 17:11:28,345 - INFO - Logging wurde gestartet.
+2024-12-20 17:31:43,598 - INFO - Logging wurde gestartet.
+2024-12-20 17:32:55,286 - INFO - Logging wurde gestartet.
+2024-12-20 17:39:07,249 - INFO - Logging wurde gestartet.
+2024-12-20 17:39:27,610 - INFO - Logging wurde gestartet.
+2024-12-20 17:40:06,910 - INFO - Logging wurde gestartet.
+2024-12-20 17:41:48,020 - INFO - Logging wurde gestartet.
+2024-12-20 17:44:43,107 - INFO - Logging wurde gestartet.
+2024-12-20 17:45:03,685 - INFO - Logging wurde gestartet.
+2024-12-20 17:49:45,774 - INFO - Logging wurde gestartet.
+2024-12-20 17:50:45,957 - INFO - Logging wurde gestartet.
+2024-12-20 17:52:15,598 - INFO - Logging wurde gestartet.
+2024-12-20 17:52:35,057 - INFO - Logging wurde gestartet.
+2024-12-20 17:53:37,347 - INFO - Logging wurde gestartet.
+2024-12-20 17:56:34,153 - INFO - Logging wurde gestartet.
+2024-12-20 17:59:25,322 - INFO - Logging wurde gestartet.
+2024-12-20 18:01:28,159 - INFO - Logging wurde gestartet.
+2024-12-20 18:01:44,057 - INFO - Logging wurde gestartet.
+2024-12-20 18:02:26,740 - INFO - Logging wurde gestartet.
+2024-12-20 18:08:13,890 - INFO - Logging wurde gestartet.
+2024-12-20 18:08:40,534 - INFO - Logging wurde gestartet.
+2024-12-20 18:09:19,659 - INFO - Logging wurde gestartet.
+2024-12-20 18:10:09,692 - INFO - Logging wurde gestartet.
+2024-12-20 18:10:33,119 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 18:10:37,206 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 18:10:41,301 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 18:10:57,948 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /data
+2024-12-20 18:11:13,013 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None)': /data
+2024-12-20 18:12:32,030 - INFO - Logging wurde gestartet.
+2024-12-20 18:20:58,900 - INFO - Logging wurde gestartet.
+2024-12-20 18:21:48,537 - INFO - Logging wurde gestartet.
+2024-12-20 18:26:28,395 - INFO - Logging wurde gestartet.
+2024-12-20 18:29:06,645 - INFO - Logging wurde gestartet.
+2024-12-20 18:32:12,965 - INFO - Logging wurde gestartet.
+2024-12-20 18:56:30,093 - INFO - Logging wurde gestartet.

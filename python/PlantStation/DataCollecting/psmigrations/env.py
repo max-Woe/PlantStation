@@ -1,3 +1,4 @@
+import os
 from logging.config import fileConfig
 
 # from alembic.templates.generic.env import target_metadata
@@ -7,7 +8,7 @@ from sqlalchemy import pool
 # from DataCollecting.ORM.AlembicModels import * #Base#, Measurement
 from alembic import context
 
-from DataCollecting.ORM.AlembicModels.Models import Base
+from DataCollecting.ORM.AlembicModels.DataLakeModels import Base
 # from DataCollecting.ORM.AlembicModels.Base import Base
 # from DataCollecting.ORM.AlembicModels.MeasurementModel import MeasurementModel
 # from DataCollecting.ORM.AlembicModels.SensorModel import SensorModel

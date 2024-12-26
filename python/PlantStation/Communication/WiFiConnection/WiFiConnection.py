@@ -1,21 +1,3 @@
-# import requests
-#
-# class WiFiConnection:
-#     def __init__(self, url):
-#         self._url = url
-#
-#     def fetch_data(self):
-#         try:
-#             response = requests.get(self._url)
-#             if response.status_code == 200:
-#                 print("Data received from D1 mini:", response.text)
-#                 return response.text
-#             else:
-#                 print("Failed to retrieve data, status code:", response.status_code)
-#         except Exception as e:
-#             print("Error:", e)
-
-
 import os
 import requests
 from requests.adapters import HTTPAdapter
@@ -27,14 +9,31 @@ load_dotenv()
 
 
 class HttpConnection:
+    """
+       Manages HTTP connections using the `requests` library with automatic retry and backoff.
+
+       :param base_url: The base URL for the HTTP requests. Defaults to the environment variable 'HTTP_URL'.
+       :type base_url: str, optional
+       :param retries: The number of retry attempts in case of failed requests. Defaults to 3.
+       :type retries: int, optional
+       :param backoff_factor: A backoff factor to apply between retries. Defaults to 1.0.
+       :type backoff_factor: float, optional
+       :param pool_size: The maximum number of connections to keep open in the connection pool. Defaults to 10.
+       :type pool_size: int, optional
+       """
+
     def __init__(self, base_url: str = None, retries: int = 3, backoff_factor: float = 1.0, pool_size: int = 10):
         """
-        Initialize the HTTP connection with connection pooling and retries.
+        Initializes the HTTP connection, setting up the base URL and retry settings.
 
-        :param base_url: Base URL for the HTTP API (e.g., 'https://api.example.com')
-        :param retries: Number of retries for failed requests (default: 3)
-        :param backoff_factor: Time to wait between retries (default: 1.0 seconds)
-        :param pool_size: Max number of connections in the pool (default: 10)
+        :param base_url: The base URL for the HTTP requests. Defaults to the environment variable 'HTTP_URL'.
+        :type base_url: str, optional
+        :param retries: The number of retry attempts in case of failed requests. Defaults to 3.
+        :type retries: int, optional
+        :param backoff_factor: A backoff factor to apply between retries. Defaults to 1.0.
+        :type backoff_factor: float, optional
+        :param pool_size: The maximum number of connections to keep open in the connection pool. Defaults to 10.
+        :type pool_size: int, optional
         """
         # Falls keine base_url übergeben wird, hole sie aus der Umgebungsvariablen
         self.base_url = base_url or os.getenv('HTTP_URL')
@@ -56,11 +55,14 @@ class HttpConnection:
 
     def fetch_data(self, endpoint: str = "data", params: dict = None):
         """
-        Fetch data from the API with a GET request.
+        Fetches data from the specified endpoint using a GET request.
 
-        :param endpoint: API endpoint (e.g., 'data')
-        :param params: Optional query parameters for the request
-        :return: Response data as JSON or None if failed
+        :param endpoint: The endpoint to query. Defaults to 'data'.
+        :type endpoint: str, optional
+        :param params: Optional query parameters to include in the GET request.
+        :type params: dict, optional
+        :return: The response content as text, or None if the request failed.
+        :rtype: str or None
         """
         try:
             response = self.session.get(f"{self.base_url}/{endpoint}", params=params)
@@ -71,5 +73,9 @@ class HttpConnection:
             return None
 
     def close(self):
-        """Close the HTTP session properly to release the connection pool."""
+        """
+        Closes the HTTP session to release resources.
+
+        :return: None
+        """
         self.session.close()
