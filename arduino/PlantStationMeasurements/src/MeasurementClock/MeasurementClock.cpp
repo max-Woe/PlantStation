@@ -1,13 +1,11 @@
 #include <Arduino.h>
-#include <Uhr\Uhr.h>
+#include <MeasurementClock\MeasurementClock.h>
 
 // RTC_DS3231 rtc;
 
 // char wochentage[7][12] = {"Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"};
 
-Uhr::Uhr()
-{
-    // RTC_DS3231 _rtc;
+MeasurementClock::MeasurementClock(){
     strncpy(_wochentage[0], "Sonntag", sizeof(_wochentage[0]));
     strncpy(_wochentage[1], "Montag", sizeof(_wochentage[1]));
     strncpy(_wochentage[2], "Dienstag", sizeof(_wochentage[2]));
@@ -15,81 +13,86 @@ Uhr::Uhr()
     strncpy(_wochentage[4], "Donnerstag", sizeof(_wochentage[4]));
     strncpy(_wochentage[5], "Freitag", sizeof(_wochentage[5]));
     strncpy(_wochentage[6], "Samstag", sizeof(_wochentage[6]));
-    
-    if (! _rtc.begin()) 
-    {
+
+    if (! _rtc.begin()){
+        _rtc_initialized = false;
         Serial.println("Finde keine RTC");
-        while (true);
+        _date_time = DateTime(2000, 0, 0, 0, 0, 0);
+        return;
+    }
+    else{
+        _rtc_initialized = true;
     }
 
-    if (_rtc.lostPower()) 
-    {
+    if (_rtc.lostPower()){
         _rtc.adjust(DateTime(F(__DATE__), F(__TIME__))); // Zeit vom Compiler setzen
     }
 
     _date_time = _rtc.now();
-    
-    Serial.println(_date_time.day());
     _current_time.hour = get_hour();
     _current_time.minute = get_minute();
     _current_time.second = get_second();
 }
 
-void Uhr::update_time()
-{
-    _date_time = _rtc.now();
+void MeasurementClock::update_time(){
+    if(_rtc_initialized)
+    {
+        //TODO: Klären wieso Zeit nicht läuft.
+        Serial.println("TIme updated");
+        _date_time = _rtc.now();
+    }
 }
-int Uhr::get_year()
-{
+
+int MeasurementClock::get_year(){
     return _date_time.year();
 }
 
-int Uhr::get_month()
+int MeasurementClock::get_month()
 {
     return _date_time.month();
 }
 
-int Uhr::get_day()
+int MeasurementClock::get_day()
 {
     return _date_time.day();
 }
 
-int Uhr::get_hour()
+int MeasurementClock::get_hour()
 {
     return _date_time.hour();
 }
 
-int Uhr::get_minute()
+int MeasurementClock::get_minute()
 {
     return _date_time.minute();
 }
 
-int Uhr::get_second()
+int MeasurementClock::get_second()
 {
     return _date_time.second();
 }
 
-int Uhr::get_day_of_week()
+int MeasurementClock::get_day_of_week()
 {
     return _date_time.dayOfTheWeek();
 }
 
-Time Uhr::get_time()
+Time MeasurementClock::get_time()
 {
     return _current_time;
 }
 
-DateTime Uhr::get_date()
+DateTime MeasurementClock::get_date()
 {
     return _date_time;
 }
 
-String Uhr::get_day_of_week_string()
+String MeasurementClock::get_day_of_week_string()
 {
     return _wochentage[get_day_of_week()];
 }
 
-String Uhr::to_string()
+String MeasurementClock::to_string()
 {  
      return String(_date_time.year()) + "-" +
                         String(_date_time.month()) + "-" +
@@ -99,3 +102,7 @@ String Uhr::to_string()
                         String(_date_time.second());
 
 }
+ DateTime MeasurementClock::get_date_time()
+ {
+    return _date_time;
+ }

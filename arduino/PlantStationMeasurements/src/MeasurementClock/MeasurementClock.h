@@ -1,5 +1,5 @@
-#ifndef UHR_H
-#define UHR_H
+#ifndef MEASUREMENTCLOCK_H
+#define MEASUREMENTCLOCK_H
 
 #include <Arduino.h>
 #include <RTClib.h>
@@ -10,10 +10,10 @@ struct Time{
     uint8_t second;
 };
 
-class Uhr
+class MeasurementClock
 {
     public:
-        Uhr();
+        MeasurementClock();
 
         int get_year();
         int get_month();
@@ -27,12 +27,14 @@ class Uhr
         String get_day_of_week_string();
         String to_string();
         void update_time();
+        DateTime get_date_time();
     
     private:
         DateTime _date_time;
         Time _current_time;
         char _wochentage[7][12];
         RTC_DS3231 _rtc;
+        bool _rtc_initialized;
         
 };
 

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "PlantStationMeasurements",
+			"path": "PlantStationMeasurements"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"array": "cpp",
+			"string_view": "cpp",
+			"ranges": "cpp"
+		}
+	}
+}
