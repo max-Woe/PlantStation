@@ -1,41 +1,37 @@
-// #include "TemperatureSensor.h"
+#include "Sensors.h"
 
-// TemperatureSensor::TemperatureSensor()
-// : dht(D4, DHT22)
-// {
-//     // dht(D4, DHT22);
-//     Serial.begin(9600);
-//     dht.begin();
-//     _time_stamp = _uhr.get_date();
-// }
+SoilMoistureSensor::SoilMoistureSensor()
+{
+    // Serial.begin(9600);
+    pinMode(A0, INPUT);
+    _time_stamp = _clock.get_date();
+}
 
 
-// void TemperatureSensor::fetch_data()
-// {
-//     _uhr.update_time();
-//     temperature = get_temperature();
-// }
-
-// float TemperatureSensor::get_temperature()
-// {
-//     float temperatur_value = dht.readTemperature();
+void SoilMoistureSensor::fetch_data()
+{
+    _clock.update_time();
     
-//     // Serial.print("Tempertur: ");
-//     // Serial.println(temperatur_value);
-//     return temperatur_value;
-// }
+    float moisture_value_analog = analogRead(A0);
+    moisture_percentage =  isnan(moisture_value_analog) ? -9999 : moisture_value_analog/1023*100;
+}
 
-// DateTime TemperatureSensor::get_time_stamp()
-// {
-//     return _time_stamp;
-// }
+float SoilMoistureSensor::get_moisture()
+{
+    return moisture_percentage;
+}
 
-// String TemperatureSensor::get_measurement_as_json()
-// {
-//     measurement_as_json["time_stamp"] = _uhr.to_string();
+DateTime SoilMoistureSensor::get_time_stamp()
+{
+    return _time_stamp;
+}
+
+String SoilMoistureSensor::get_measurement_as_json()
+{
+    measurement_as_json["time_stamp"] = _clock.to_string();
     
-//     String jsonString;
-//     serializeJson(measurement_as_json, jsonString);
+    String jsonString;
+    serializeJson(measurement_as_json, jsonString);
     
-//     return jsonString;
-// }
+    return jsonString;
+}

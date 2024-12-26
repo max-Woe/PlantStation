@@ -1,6 +1,8 @@
 from datetime import datetime, time, date
 import pandas as pd
 
+
+
 class MeasurementOfStation:
     def __init__(self, measurement_dict:dict=None):
         try:
@@ -9,9 +11,16 @@ class MeasurementOfStation:
                 self.temperature = float(measurement_dict["temperature"])
                 self.humidity = float(measurement_dict["humidity"])
                 self.water_level = float(measurement_dict["water_level"])
-                self.measurement_values_dict = {'temperature': self.temperature, 'humidity': self.humidity, 'water_level': self.water_level}
+                self.soil_moisture = float(measurement_dict["soil_moisture"])
+                self.measurement_values_dict = measurement_dict
+                # self.measurement_values_dict = {
+                #     'temperature': self.temperature,
+                #     'humidity': self.humidity,
+                #     'water_level': self.water_level,
+                #     'soil_moisture': self.soil_moisture}
                 self.seperate_time_stampe()
-                self.measurement_values_df = None
+                self.measurements_df = None
+                self._measurements_values_df = pd.DataFrame([self.measurement_values_dict])
             else:
                 raise ValueError("measurements_dict is not a dictionary!")
         except ValueError as e:
@@ -141,12 +150,18 @@ class MeasurementOfStation:
     def second(self):
         return self._second
 
+
     @second.setter
     def second(self, second_value):
         if isinstance(second_value, int):
             self._second = second_value
         else:
             raise ValueError("second is not an integer!")
+
+    @property
+    def measurements_values_df(self):
+        return self._measurements_values_df
+
 
     def seperate_time_stampe(self):
         self.time = self.time_stamp.time()
@@ -158,8 +173,9 @@ class MeasurementOfStation:
         self.minute = self.time_stamp.minute
         self.second = self.time_stamp.second
 
-    def get_measurements_as_df(self):
-        self.measurement_values_df = pd.DataFrame(columns=['time_stamp', 'value', 'unit','recorded_at', 'created_at' ])
+# TODO: Evtl measurements_df in propperty umwandeln
+    def get_measurements_df(self):
+        self.measurements_df = pd.DataFrame(columns=['time_stamp', 'value', 'unit', 'recorded_at', 'created_at'])
         for key, measurement in self.measurement_values_dict.items():
             if key == 'temperature':
                 unit = "°C"
@@ -167,13 +183,10 @@ class MeasurementOfStation:
                 unit = "%rel"
             elif key == 'water_level':
                 unit = "%"
+            elif key == 'soil_moisture':
+                unit = "%"
             new_row = pd.DataFrame({'time_stamp': [self.time_stamp],
                                     'value': [measurement],
                                     'unit': [unit],
                                     'recorded_at': [self.time_stamp],
                                     'created_at': [datetime.now()]})
-
-            # Füge die neue Zeile zum bestehenden DataFrame hinzu
-            self.measurement_values_df = pd.concat([self.measurement_values_df, new_row], ignore_index=True)
-
-        return self.measurement_values_df
