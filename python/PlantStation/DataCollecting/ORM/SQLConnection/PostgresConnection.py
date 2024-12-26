@@ -19,7 +19,7 @@ class PostgresConnection:
         :param pool_size: Number of connections to keep in the pool (default: 5)
         :param max_overflow: Number of connections to allow beyond pool_size (default: 10)
         """
-        self.db_url = db_url or os.getenv('DATABASE_URL')
+        self.db_url = db_url or os.getenv('DATABASE_URL_AWS')
 
         self.engine = create_engine(
             self.db_url,
