@@ -92,3 +92,27 @@ class StationModel(Base):
     """
     def __repr__(self):
         return f"id: {self.id}, position: {self.position}, unit: {self.unit}, station_id: {self.station_id}, created_at: {self.created_at}"
+
+class AppExceptionModel(Base):
+    """
+    Represents a measurement in the database.
+
+    Attributes:
+        id (int): Unique ID of the measurement.
+        value (float): The measured value.
+        sensor_id (int, optional): The ID of the associated sensor (can be `None`).
+        sensor_reference (int): Reference ID of the sensor.
+        recorded_at (datetime): The timestamp when the measurement was taken.
+        created_at (datetime): The timestamp when the database entry was created.
+    """
+    __tablename__ = 'app_exceptions'
+
+    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
+    exception_message: Mapped[str]
+    recorded_at: Mapped[datetime]
+
+    def __repr__(self):
+        """
+        Returns a human-readable representation of the object.
+        """
+        return f"id: {self.id}, exception_message: {self.exception_message}, recorded_at: {self.recorded_at}"
