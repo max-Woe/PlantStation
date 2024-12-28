@@ -1,19 +1,11 @@
-import time
 import json
-import os
-import logging
-from cProfile import label
-
-import pandas as pd
-from anyio.abc import value
 
 # from requests import postgres_session, session
 
 from Communication.WiFiConnection.WiFiConnection import HttpConnection
 from DataCollecting.DDD.MeasurementOfStation import MeasurementOfStation
-from DataCollecting.ORM.MeasurementTableManager import *
+from DataCollecting.ORM.Repos.MeasurementRepo import *
 from DataCollecting.ORM.SQLConnection.PostgresConnection import *
-from DataCollecting.ORM.AlembicModels.DataLakeModels import MeasurementModel
 
 # Via WiFi Schnittstelle eine Verbindung zum Mikrocontroller herstellen
 # import requests

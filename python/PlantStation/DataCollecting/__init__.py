@@ -1,4 +1,4 @@
-from .ORM.AlembicModels.DataLakeModels import Base
+from .ORM.Entities.DataLakeModels import Base
 
 
 __all__ =['Base']

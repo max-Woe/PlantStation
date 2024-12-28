@@ -11,6 +11,7 @@ class MeasurementTableManager:
         data_df(DataFrame): content from the measurement table.
     """
     def __init__(self):
+
         self.data_df = None
 
     def _get_session(self):
