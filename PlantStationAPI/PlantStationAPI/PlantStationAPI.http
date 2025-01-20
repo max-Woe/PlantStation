@@ -1,0 +1,6 @@
+@PlantStationAPI_HostAddress = http://localhost:5267
+
+GET {{PlantStationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

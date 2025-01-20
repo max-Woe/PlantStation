@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NPAigWXIjW20UnWG0ivp1E+M+2ljDdjwdensYoFqMOE=",
+  "Source": "PlantStationAPI",
+  "BasePath": "_content/PlantStationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
