@@ -4,7 +4,7 @@
 #include <Arduino.h>
 #include <DHT.h>
 #include <ArduinoJson.h>
-#include <MeasurementClock\MeasurementClock.h>
+// #include <MeasurementClock\MeasurementClock.h>
 
 /**
  * @class TemperatureHumiditySensor
@@ -17,11 +17,21 @@
 class TemperatureHumiditySensor
 {
     public:
+    
         /**
          * @brief standard constructor for WaterLevelSensor class
          */
         TemperatureHumiditySensor();
-        
+    
+    
+        /**
+         * @brief starts the sensors: temperature[°C] and humidity[%rel]
+         * 
+         * this methode starts the sensors.
+         */
+        void begin();
+
+
         /**
          * @brief captures sensor data temperature[°C] and humidity[%rel]
          * 
@@ -39,31 +49,31 @@ class TemperatureHumiditySensor
          */
         float getHumidity();
         
-        /**
-         * @brief returns the timestamp when the current values were recorded
-         */
-        DateTime getTimeStamp();
+        // /**
+        //  * @brief returns the timestamp when the current values were recorded
+        //  */
+        // DateTime getTimeStamp();
         
-        /**
-         * @brief returns the temperature value and matching timestamp as Json string
-         */
-        String getTemperatureMeasurementAsJson();
+        // /**
+        //  * @brief returns the temperature value and matching timestamp as Json string
+        //  */
+        // String getTemperatureMeasurementAsJson();
         
-        /**
-         * @brief returns the humidity value and matching timestamp as Json string
-         */
-        String getHumidityMeasurementAsJson();
+        // /**
+        //  * @brief returns the humidity value and matching timestamp as Json string
+        //  */
+        // String getHumidityMeasurementAsJson();
 
-        /**
-         * @brief returns the humidity value and matching timestamp as Json string
-         */
-        String getAllMeasurementsAsJson();
+        // /**
+        //  * @brief returns the humidity value and matching timestamp as Json string
+        //  */
+        // String getAllMeasurementsAsJson();
 
-    private:
-        MeasurementClock _clock;   ///< object for time management
-        
         DHT dht;    ///< object of the DHT sensor class
-        DateTime _time_stamp;   ///< time stamp of the current measurements
+    private:
+        // MeasurementClock _clock;   ///< object for time management
+        
+        // DateTime _time_stamp;   ///< time stamp of the current measurements
         float _temperature; ///< temperature value of the current measurement
         float _humidity;    //< humidity value of the current measurement
         JsonDocument _measurement_as_json;  //<  json string of the current measurements and timestamp

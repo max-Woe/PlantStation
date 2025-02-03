@@ -22,18 +22,9 @@ postgres_connection = PostgresConnection()
 #
 # postgres_session = postgres_connection.get_session()
 
-# measurement_table_class = MeasurementTableManager()
+measurement_table_class = MeasurementTableManager()
 # whole_table = measurement_table_class.get_table()
 print(os.getcwd())
-
-#
-# measurement_model = MeasurementModel(value=1, unit= "°C", sensor_id=3,recorded_at=datetime.now(),created_at=datetime.now())
-#
-# if postgres_session:
-#     postgres_session.add(measurement_model)
-#     postgres_session.commit()
-#     print(postgres_session.query(MeasurementModel).all())
-
 
 # Logging-Konfiguration für eine Log-Datei
 try:
@@ -113,7 +104,7 @@ while count_measurements<count_measurements_max:
     # measurement_model = MeasurementModel(value=)
     #
     # commits.append(measurement_model)
-    # measure_table_class.add_row(measurement_model)
+    measure_table_class.add_row(measurement_model)
 
     # for index, measurement in measurement_of_station.get_measurements_as_df().iterrows():
     #     measurement_model = MeasurementModel(

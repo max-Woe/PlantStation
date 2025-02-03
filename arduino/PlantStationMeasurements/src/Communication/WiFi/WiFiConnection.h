@@ -2,8 +2,8 @@
 #define WIFICONNECTION_H
 
 #include <Arduino.h>
-#include <ESP8266WiFi.h>
-#include <ESP8266WebServer.h>
+#include <WiFi.h>
+#include <WebServer.h>
 
 /**
  * @class WiFiConnection
@@ -58,7 +58,7 @@ class WiFiConnection
         
         int connection_tries_failed; ///< status variable for connection tries
         const int connection_tries_max = 10; ///< max. count for connection tries
-        ESP8266WebServer server;    ///< webserver object for an ESP8266 microcontroller
+        WebServer server;    ///< webserver object for an ESP8266 microcontroller
 };
 
 #endif

@@ -6,14 +6,14 @@
 // char wochentage[7][12] = {"Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"};
 
 MeasurementClock::MeasurementClock(){
-    strncpy(_wochentage[0], "Sonntag", sizeof(_wochentage[0]));
-    strncpy(_wochentage[1], "Montag", sizeof(_wochentage[1]));
-    strncpy(_wochentage[2], "Dienstag", sizeof(_wochentage[2]));
-    strncpy(_wochentage[3], "Mittwoch", sizeof(_wochentage[3]));
-    strncpy(_wochentage[4], "Donnerstag", sizeof(_wochentage[4]));
-    strncpy(_wochentage[5], "Freitag", sizeof(_wochentage[5]));
-    strncpy(_wochentage[6], "Samstag", sizeof(_wochentage[6]));
-
+    // strncpy(_wochentage[0], "Sonntag", sizeof(_wochentage[0]));
+    // strncpy(_wochentage[1], "Montag", sizeof(_wochentage[1]));
+    // strncpy(_wochentage[2], "Dienstag", sizeof(_wochentage[2]));
+    // strncpy(_wochentage[3], "Mittwoch", sizeof(_wochentage[3]));
+    // strncpy(_wochentage[4], "Donnerstag", sizeof(_wochentage[4]));
+    // strncpy(_wochentage[5], "Freitag", sizeof(_wochentage[5]));
+    // strncpy(_wochentage[6], "Samstag", sizeof(_wochentage[6]));
+    
     if (! _rtc.begin()){
         _rtc_initialized = false;
         Serial.println("Finde keine RTC");
@@ -28,7 +28,12 @@ MeasurementClock::MeasurementClock(){
         _rtc.adjust(DateTime(F(__DATE__), F(__TIME__))); // Zeit vom Compiler setzen
     }
 
-    _date_time = _rtc.now();
+    if (_rtc_initialized) {
+        _date_time = _rtc.now();
+    } else {
+        _date_time = DateTime(2000, 1, 1, 0, 0, 0);  // Fallback-Wert bei fehlender RTC
+    }
+    // _date_time = _rtc.now();
     _current_time.hour = get_hour();
     _current_time.minute = get_minute();
     _current_time.second = get_second();
@@ -38,7 +43,7 @@ void MeasurementClock::update_time(){
     if(_rtc_initialized)
     {
         //TODO: Klären wieso Zeit nicht läuft.
-        Serial.println("TIme updated");
+        Serial.println("Time updated");
         _date_time = _rtc.now();
     }
 }

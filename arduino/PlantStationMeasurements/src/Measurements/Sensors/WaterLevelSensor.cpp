@@ -11,7 +11,7 @@
 
 WaterLevelSensor::WaterLevelSensor()
 {
-    Serial.begin(9600);
+    // Serial.begin(9600);
 }
 
 /**
@@ -27,7 +27,7 @@ WaterLevelSensor::WaterLevelSensor()
 void WaterLevelSensor::fetchData()
 {
     _clock.update_time();
-    float water_level_value_analog = analogRead(A0);
+    float water_level_value_analog = analogRead(34);    //A0);
     Serial.println(water_level_value_analog);
     _water_level_value_percentage = (water_level_value_analog/600 *100) > 100 ? 100 : water_level_value_analog/600 *100 <5 ? 0 : water_level_value_analog/600 *100 ;
     Serial.println(_water_level_value_percentage);
