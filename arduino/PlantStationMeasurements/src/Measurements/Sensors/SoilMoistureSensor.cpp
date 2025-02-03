@@ -12,7 +12,7 @@ void SoilMoistureSensor::fetch_data()
 {
     _clock.update_time();
     
-    float moisture_value_analog = analogRead(A0);
+    float moisture_value_analog = analogRead(33); //A0);
     moisture_percentage =  isnan(moisture_value_analog) ? -9999 : moisture_value_analog/1023*100;
 }
 

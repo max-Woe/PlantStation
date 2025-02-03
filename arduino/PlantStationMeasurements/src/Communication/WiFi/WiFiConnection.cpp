@@ -4,7 +4,7 @@
 // #include <ESP8266WebServer.h>
 
 // Server auf Port 80 erstellen
-ESP8266WebServer server(80);
+WebServer server(80);
 
 WiFiConnection::WiFiConnection(const char *SSID, const char *PASS) 
     // : connection_tries_failed(0) // Initialisierung der Versuche

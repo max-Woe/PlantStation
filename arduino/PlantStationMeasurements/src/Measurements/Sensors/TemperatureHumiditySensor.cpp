@@ -10,11 +10,19 @@
  * - starts the DHT22 sensor
  */
 TemperatureHumiditySensor::TemperatureHumiditySensor()
-: dht(D4, DHT22)
+: dht(32,DHT22)  //D4, DHT22)
+{}
+
+void TemperatureHumiditySensor::begin()
 {
-    Serial.begin(9600);
     dht.begin();
+    delay(2000);
 }
+
+// float TemperatureHumiditySensor::getTemperature()
+// {
+//     dht.readTemperature();
+// }
 
 /**
  * @brief Captures the temperature and humitiy values and updates the timestamp.
@@ -23,13 +31,13 @@ TemperatureHumiditySensor::TemperatureHumiditySensor()
  * Reads the current sensor values
  * Stores the values and the updated timestamp
 */
-void TemperatureHumiditySensor::fetchData()
-{
-    _clock.update_time();
-    _temperature = getTemperature();
-    _humidity = getHumidity();
-    _time_stamp = _clock.get_date();
-}
+// void TemperatureHumiditySensor::fetchData()
+// {
+//     _clock.update_time();
+//     _temperature = getTemperature();
+//     _humidity = getHumidity();
+//     _time_stamp = _clock.get_date();
+// }
 
 /**
  * @brief Retrieves the current temperature value
@@ -59,66 +67,66 @@ float TemperatureHumiditySensor::getHumidity()
     return isnan(humidity_value) ? -9999 : humidity_value;
 }
 
-/**
- * @brief Retrieves the current time stamp
-  * @return time stamp in YYYY-MM-DD hh:mm:ss format
-*/
-DateTime TemperatureHumiditySensor::getTimeStamp()
-{
-    return _time_stamp;
-}
+// /**
+//  * @brief Retrieves the current time stamp
+//   * @return time stamp in YYYY-MM-DD hh:mm:ss format
+// */
+// DateTime TemperatureHumiditySensor::getTimeStamp()
+// {
+//     return _time_stamp;
+// }
 
-/**
- * @brief Retrieves a json string containing the current timestamp and temperature
- * @details
- * Collects temperature and time stamp and stores them in an json string
- * @return json string including 
- * - time stamp in YYYY-MM-DD hh:mm:ss and temperature [°C]
-*/
-String TemperatureHumiditySensor::getTemperatureMeasurementAsJson()
-{
-    _measurement_as_json["time_stamp"] = _clock.to_string();
-    _measurement_as_json["temperature"] = _temperature;
+// /**
+//  * @brief Retrieves a json string containing the current timestamp and temperature
+//  * @details
+//  * Collects temperature and time stamp and stores them in an json string
+//  * @return json string including 
+//  * - time stamp in YYYY-MM-DD hh:mm:ss and temperature [°C]
+// */
+// String TemperatureHumiditySensor::getTemperatureMeasurementAsJson()
+// {
+//     _measurement_as_json["time_stamp"] = _clock.to_string();
+//     _measurement_as_json["temperature"] = _temperature;
     
-    String jsonString;
-    serializeJson(_measurement_as_json, jsonString);
+//     String jsonString;
+//     serializeJson(_measurement_as_json, jsonString);
     
-    return jsonString;
-}
+//     return jsonString;
+// }
 
-/**
- * @brief Retrieves a json string containing the current timestamp and humidity
- * @details
- * Collects temperature and time stamp and stores them in an json string
- * @return json string including 
- * - time stamp in YYYY-MM-DD hh:mm:ss and humidity [%rel]
-*/
-String TemperatureHumiditySensor::getHumidityMeasurementAsJson()
-{
-    _measurement_as_json["time_stamp"] = _clock.to_string();
-    _measurement_as_json["humidity"] = _humidity;
+// /**
+//  * @brief Retrieves a json string containing the current timestamp and humidity
+//  * @details
+//  * Collects temperature and time stamp and stores them in an json string
+//  * @return json string including 
+//  * - time stamp in YYYY-MM-DD hh:mm:ss and humidity [%rel]
+// */
+// String TemperatureHumiditySensor::getHumidityMeasurementAsJson()
+// {
+//     _measurement_as_json["time_stamp"] = _clock.to_string();
+//     _measurement_as_json["humidity"] = _humidity;
     
-    String jsonString;
-    serializeJson(_measurement_as_json, jsonString);
+//     String jsonString;
+//     serializeJson(_measurement_as_json, jsonString);
     
-    return jsonString;
-}
+//     return jsonString;
+// }
 
-/**
- * @brief Retrieves a json string containing the current timestamp and temperature and humitiy values
- * @details
- * Collects all values and stores them in an json string
- * @return json string including 
- * - time stamp in YYYY-MM-DD hh:mm:ss, temperature [°C] and humidity [%rel]
-*/
-String TemperatureHumiditySensor::getAllMeasurementsAsJson()
-{
-    _measurement_as_json["time_stamp"] = _clock.to_string();
-    _measurement_as_json["temperature"] = _temperature;
-    _measurement_as_json["humidity"] = _humidity;
+// /**
+//  * @brief Retrieves a json string containing the current timestamp and temperature and humitiy values
+//  * @details
+//  * Collects all values and stores them in an json string
+//  * @return json string including 
+//  * - time stamp in YYYY-MM-DD hh:mm:ss, temperature [°C] and humidity [%rel]
+// */
+// String TemperatureHumiditySensor::getAllMeasurementsAsJson()
+// {
+//     _measurement_as_json["time_stamp"] = _clock.to_string();
+//     _measurement_as_json["temperature"] = _temperature;
+//     _measurement_as_json["humidity"] = _humidity;
     
-    String jsonString;
-    serializeJson(_measurement_as_json, jsonString);
+//     String jsonString;
+//     serializeJson(_measurement_as_json, jsonString);
     
-    return jsonString;
-}
+//     return jsonString;
+// }
