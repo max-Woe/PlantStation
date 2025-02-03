@@ -11,7 +11,7 @@ Base = declarative_base()
 
 metadata = Base.metadata
 
-class MeasurementModel(Base):
+class Measurement(Base):
     """
     Represents a measurement in the database.
 
@@ -40,7 +40,6 @@ class MeasurementModel(Base):
 
 
 
-class SensorModel(Base):
     """
     Represents a sensor in the database.
 
@@ -50,7 +49,6 @@ class SensorModel(Base):
         unit (str): The unit of the sensor (e.g., °C, %).
         station_id (int, optional): The ID of the associated station (can be `None`).
         created_at (datetime): The timestamp when the sensor was created.
-        measurements (list[MeasurementModel]): List of associated measurements.
     """
     __tablename__ = 'sensor'
 
@@ -68,7 +66,6 @@ class SensorModel(Base):
         return f"id: {self.id}, type: {self.type}, unit: {self.unit}, station_id: {self.station_id}, created_at: {self.created_at}"
 
 
-class StationModel(Base):
     """
     Represents a station in the database.
 
@@ -77,7 +74,6 @@ class StationModel(Base):
         position (str): The location of the station (e.g., bedroom, living room).
         sensors_count (int): The number of associated sensors.
         created_at (datetime): The timestamp when the station was created.
-        sensors (list[SensorModel]): List of associated sensors.
     """
     __tablename__ = 'station'
 
@@ -93,7 +89,6 @@ class StationModel(Base):
     def __repr__(self):
         return f"id: {self.id}, position: {self.position}, unit: {self.unit}, station_id: {self.station_id}, created_at: {self.created_at}"
 
-class AppExceptionModel(Base):
     """
     Represents a measurement in the database.
 
